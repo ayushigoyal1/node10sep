@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "first_name": "Sallyanne",
+    "last_name": "O'Crevan",
+    "email": "socrevan0@salon.com",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Myrvyn",
+    "last_name": "MacCallion",
+    "email": "mmaccallion1@utexas.edu",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Wilhelmina",
+    "last_name": "Harrild",
+    "email": "wharrild2@marketwatch.com",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Jonie",
+    "last_name": "Winfrey",
+    "email": "jwinfrey3@ow.ly",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Meryl",
+    "last_name": "Cordet",
+    "email": "mcordet4@comsenz.com",
+    "gender": "Male"
+  },
+  {
+    "id": 6,
+    "first_name": "Dniren",
+    "last_name": "Reggiani",
+    "email": "dreggiani5@geocities.jp",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Arielle",
+    "last_name": "Avison",
+    "email": "aavison6@webmd.com",
+    "gender": "Genderfluid"
+  },
+  {
+    "id": 8,
+    "first_name": "Nat",
+    "last_name": "Padly",
+    "email": "npadly7@github.io",
+    "gender": "Male"
+  },
+  {
+    "id": 9,
+    "first_name": "Holli",
+    "last_name": "Muckloe",
+    "email": "hmuckloe8@cocolog-nifty.com",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "first_name": "Bessy",
+    "last_name": "Lorraway",
+    "email": "blorraway9@umn.edu",
+    "gender": "Female"
+  },
+  {
+    "first_name": "Oralie",
+    "last_name": "Goodbarne",
+    "email": "ogoodbarnet@cbc.ca",
+    "gender": "Bigender",
+    "id": 11
+  }
+]
